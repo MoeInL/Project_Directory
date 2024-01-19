@@ -13,5 +13,5 @@ This repository serves as a directory that helps you easily navigate through my 
 - <a href="https://github.com/MoeInL/Restaurant_Menu.git">Lylahs<a/> - A restaurant menu for a made up restaurant called "lylahs". Made with raw HTML and CSS
 
 ## W <a id="w"></a>
-- <a href="https://github.com/MoeInL/WalletWatch.git">WalletWatch<a/> - A full scale cross platform application build with React Native using Expo CLI
+- <a href="https://github.com/MoeInL/WalletWatch.git">WalletWatch<a/> - A full-scale cross platform application build with React Native using Expo CLI
 
